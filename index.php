@@ -2,7 +2,7 @@
 
 session_start();
 
-$SESSION["usuario"] = "Francisco";
+$SESSION["usuario"] = "Nome Usuario";
 
 echo "Olá Mundo!". $SESSION['usuario'];
 
